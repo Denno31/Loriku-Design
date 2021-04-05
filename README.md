@@ -1,3 +1,3 @@
 # Loriku-Design
 Loriku is a fictitious Hosting company
-lint
+linK https://keen-joliot-ca805d.netlify.app
